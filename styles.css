@@ -131,7 +131,7 @@ p{
   color: #594634;
 }
 
-.footer-container {
+.footer-container:first-child {
 margin: 0 auto;
 padding-left: 60px;
 }
