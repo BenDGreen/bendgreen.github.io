@@ -130,3 +130,8 @@ p{
 #footer a:hover{
   color: #594634;
 }
+
+.footer-container {
+margin: 0 auto;
+padding-left: 60px;
+}
