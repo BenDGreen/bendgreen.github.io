@@ -98,6 +98,11 @@ p{
   text-align: center;
 }
 
+.contact-info{
+  text-align: center;
+  padding-top: 60px;
+}
+
 #footer{
   background-color: #1c1f2d;
   padding: 50px 0;
